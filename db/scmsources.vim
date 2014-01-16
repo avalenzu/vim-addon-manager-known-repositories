@@ -2551,6 +2551,9 @@ let scm['vim-opengrok-search'] = {'type': 'git', 'url': 'git://github.com/jdever
 let scm['vim-sneak'] = {'type': 'git', 'url': 'git://github.com/justinmk/vim-sneak'}
 let scm['vim-gtfo'] = {'type': 'git', 'url': 'git://github.com/justinmk/vim-gtfo'}
 
+" Christopher Toomey
+let scm['vim-tmux-navigator'] = {'type': 'git', 'url': 'git://github.com/christoomey/vim-tmux-navigator'}
+
 "-----------------------------------------------------------------------------------------------------------------------
 
 " lei fw
