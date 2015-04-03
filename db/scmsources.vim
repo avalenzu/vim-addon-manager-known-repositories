@@ -1332,6 +1332,19 @@ let scm['vim-go'] = {'type': 'git', 'url': 'git://github.com/fatih/vim-go'}
 let scm['YUNOcommit'] = {'type': 'git', 'url': 'git://github.com/esneide/YUNOcommit.vim'}
 
 
+" Dan O'Shea
+let scm['matlab-fold'] = {'type': 'git', 'url': 'git://github.com/djoshea/vim-matlab-fold.git'}
+
+" Chris Toomey
+let scm['vim-tmux-navigator'] = {'type': 'git', 'url': 'git://github.com/christoomey/vim-tmux-navigator.git'}
+
+"E. Branlard
+let scm['vim-matlab-behave'] = {'type': 'git', 'url': 'git://github.com/elmanuelito/vim-matlab-behave.git'}
+
+"Xuyuan Pang
+let scm['git-nerdtree'] = {'type': 'git', 'url': 'git://github.com/Xuyuanp/git-nerdtree.git'}
+
+
 "-----------------------------------------------------------------------------------------------------------------------
 
 " lei fw
